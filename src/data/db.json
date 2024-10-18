@@ -1,0 +1,37 @@
+{
+  "produtos": [
+    {
+      "id": "11d9",
+      "nomeProduto": "Alcatra",
+      "categoriaProduto": "Gelados",
+      "precoProduto": "32.81"
+    },
+    {
+      "id": "e83b",
+      "nomeProduto": "Geladeira",
+      "categoriaProduto": "Eletromovel",
+      "precoProduto": "1200"
+    },
+    {
+      "id": "be58",
+      "nomeProduto": "Geladeira2 o retorno",
+      "categoriaProduto": "Eletromoveis o retorno",
+      "precoProduto": "1200"
+    },
+    {
+      "id": "7e75",
+      "nomeProduto": "Geladeira2 o retorno do retorno",
+      "categoriaProduto": "Eletromoveis o retorno do retorno",
+      "precoProduto": "1200"
+    }
+  ],
+  "usuarios": [
+    {
+      "id": "1",
+      "nome": "adm",
+      "email": "docemel@sodoce.com.br",
+      "senha": "brigadeiro123",
+      "tipo": "Administrador"
+    }
+  ]
+}

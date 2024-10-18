@@ -1,0 +1,14 @@
+span{
+    text-align: center !important;
+    color: white !important;
+    display: block;
+    margin-bottom: 2rem;
+}
+.btnCadastrar{
+    margin-top: 1rem;
+    margin-left: 50%;
+    transform: translateX(-50%);
+
+    padding-left:  5rem !important;
+    padding-right:  5rem !important;
+}
