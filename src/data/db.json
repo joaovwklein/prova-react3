@@ -23,6 +23,12 @@
       "nomeProduto": "Geladeira2 o retorno do retorno",
       "categoriaProduto": "Eletromoveis o retorno do retorno",
       "precoProduto": "1200"
+    },
+    {
+      "id": "5fe6",
+      "nomeProduto": "Guitarra strato",
+      "categoriaProduto": "instrumentos musicais",
+      "precoProduto": "1000"
     }
   ],
   "usuarios": [
